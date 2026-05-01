@@ -1,4 +1,4 @@
-📝 To-Do List — Gerenciador de Tarefas
+📝 To-Do List — Gerenciador de Tarefas:
 Aplicação web fullstack de gerenciamento de tarefas com autenticação de usuários.
 
 🚀 Tecnologias
